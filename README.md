@@ -6,6 +6,7 @@ This pretrained segmentation model is then embedded into a CycleGAN-inspired gen
 
 By coupling segmentation and generation in a unified framework, MAGNet achieves morphology-aware, data-efficient segmentation and robust generalization, even with extremely limited training samples.
 
+![MAGNet_model] (https://github.com/varunajith/MAGNet/blob/main/FW_model_ltc3.png)
 
 # Dataset
 
