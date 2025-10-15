@@ -53,6 +53,3 @@ For access to the private dataset or for any queries, contact varunajith29@gmail
 If you reference this work, please cite:
 
 <pre> @article{ajith2025magnet, title={MAGNet: Morphology-Aware Generative Network for Nanoparticle Electron Microscopy Segmentation}, author={Ajith, Varun and Pal, Anindya and [Co-authors]}, journal={Under review}, year={2025} } </pre>
-License
-
-This repository is distributed under the MIT License. See the LICENSE file for details.
